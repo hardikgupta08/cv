@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(189, 209, 179);
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 20px;
+}
+.table{
+    margin-left:auto;
+    margin-right:auto;
+}
+.list{
+    display:inline-block;
+    text-align:left;
+}
+.profile{
+    float:right;
+    width: 100px;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+    padding: 0;
+}
+.name{
+    padding :100px;
+}
+h1{
+    color: #66bfbf;
+    text-decoration-line:underline;
+    text-decoration-style: dotted;
+    font-family: 'Sacramento', cursive;
+    font-size:5em;
+}
+h3{
+    color:#66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size:2em;
+}
+.cse{
+    padding : 20px;
+}
+.github{
+    width :100px;
+    border-radius: 100%;
+}
+hr{
+    border-style:none;
+    border-color:grey;
+    border-width:5px;
+    border-top-style:dotted;
+    width: 5%
+}
+.desc{
+    font-size:20px;
+}
+.linkedin
+{
+    border-radius: 100%;
+}
+.footer{
+    font-size: 10px;
+}
